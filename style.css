@@ -198,9 +198,7 @@ ul {
 
 @media (min-width: 1440px) {
   .container {
-    position: relative;
-    margin-top: 50%;
-    top: 50%;
+    margin-top: 10rem;
     width: 45%;
     display: grid;
     grid-template-columns: 1fr 1fr;
